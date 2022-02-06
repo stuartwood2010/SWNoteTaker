@@ -28,7 +28,9 @@
   ## Usage
   To use the program, follow the instructions given:
   ```
-  run node index in the terminal.
+  Type in a new note, save it by clicking the save icon.
+  View it by clicking on the note on the left hand side.
+  Delete a note by clicking on the trash icon on the desired note.
   ```
 
   ## License
